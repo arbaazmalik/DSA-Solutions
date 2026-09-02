@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/arbaazmalik/DSA-Solutions/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/arbaazmalik/DSA-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arbaazmalik/DSA-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Math
 |  |
@@ -14,8 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/arbaazmalik/DSA-Solutions/tree/master/0036-valid-sudoku) |
+| [0128-longest-consecutive-sequence](https://github.com/arbaazmalik/DSA-Solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/arbaazmalik/DSA-Solutions/tree/master/0036-valid-sudoku) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/arbaazmalik/DSA-Solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
