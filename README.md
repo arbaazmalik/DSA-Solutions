@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/arbaazmalik/DSA-Solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/arbaazmalik/DSA-Solutions/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/arbaazmalik/DSA-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arbaazmalik/DSA-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/arbaazmalik/DSA-Solutions/tree/master/0125-valid-palindrome) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/arbaazmalik/DSA-Solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
