@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/arbaazmalik/DSA-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/arbaazmalik/DSA-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arbaazmalik/DSA-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/arbaazmalik/DSA-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/arbaazmalik/DSA-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/arbaazmalik/DSA-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
